@@ -1,0 +1,27 @@
+
+
+.imagen1 { padding: 10px; margin: 10px; border: 4px double black; float: right; width: 200px; 
+}
+
+.title {
+  background-color: rgb(231, 196, 149);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-align: center; color: dodgerblue; border: 8px groove;
+}
+
+.titulos {
+        background-color: lightgrey;
+        width: 350px;
+        border: 4px solid crimson;
+        padding: 5px;
+        margin: 5px;
+    font-family:  'Roboto', sans-serif;; text-align: justify; color: rgb(19, 61, 104);
+}
+
+body {
+    height: 100%; background-image: linear-gradient(to bottom right, #5f7c99, #2857e6, #77ffbb, rgb(255, 122, 89));
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
